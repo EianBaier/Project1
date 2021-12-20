@@ -1,0 +1,23 @@
+#reimb-table{
+    
+    margin-left: 100px;
+
+    
+    border-radius: 10px;
+}
+
+.big-container{
+    display: flex;
+    justify-content: left;
+    
+    
+}
+
+.form-container{
+    width: 500px;
+    height: auto;
+    background-color: rgb(219, 219, 219);
+    border-radius: 10px;
+    border-color: black;
+    
+}
